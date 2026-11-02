@@ -93,7 +93,7 @@ GSD fixes that. It's the **context engineering layer** that makes AI coding reli
 cd your-project
 
 # Clone the GSD template
-git clone https://github.com/toonight/get-shit-done-for-antigravity.git gsd-template
+git clone https://github.com/kashyap-harshit/get-shit-done-for-antigravity.git gsd-template
 
 # Copy to your project
 Copy-Item -Recurse gsd-template\.agent .\
