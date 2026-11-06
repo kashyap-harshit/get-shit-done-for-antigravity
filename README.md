@@ -114,7 +114,7 @@ Remove-Item -Recurse -Force gsd-template
 </details>
 
 <details>
-<summary><b>🐧 Bash (Linux / Mac)</b></summary>
+<b>🐧 Bash (Linux / Mac)</b>
 
 ```bash
 # Open your project
