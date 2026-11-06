@@ -121,7 +121,7 @@ Remove-Item -Recurse -Force gsd-template
 cd your-project
 
 # Clone the GSD template
-git clone https://github.com/toonight/get-shit-done-for-antigravity.git gsd-template
+git clone https://github.com/kashyap-harshit/get-shit-done-for-antigravity.git gsd-template
 
 # Copy to your project
 cp -r gsd-template/.agent ./
